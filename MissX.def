@@ -1,0 +1,17 @@
+[Info]
+name="Sam & Ixnaydk Miss X"
+displayname="Miss X"
+versiondate=09/03/2008
+mugenversion=04,14,2001
+author="Sam e Ixnaydk"
+pal.defaults=1,2,3,4,5
+
+[Files]
+sprite=MissX.sff
+;sound=MissX.snd
+anim=MissX.air
+cmd=MissX.cmd
+cns=MissX.cns
+st=MissX.cns
+stcommon=common1.cns
+pal1=MissX.act
